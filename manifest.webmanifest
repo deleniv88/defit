@@ -1,0 +1,17 @@
+{
+  "name": "DeFit",
+  "short_name": "DeFit",
+  "description": "Тренування, вага, талія і харчування в одному місці.",
+  "lang": "uk",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#4250F2",
+  "theme_color": "#3E4CF0",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
